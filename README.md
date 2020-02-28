@@ -3,10 +3,10 @@ Human labeled Chinese jokes and their verification codes in Python.
 
 ## 1. Description of Files:
 ```
-  Chinese_Humor_Multi-Labeled.xlsx: the human labeled dataset.
-  Excel2txt.py: the Python code to extract texts and labels from the above Excel file for experiments.
-  mlabel_corpora: the folder containing the extracted texts and lablels for experiments.
-  tools: the Jupyter Notebook and Python codes for humour comprehension experiments.
+    Chinese_Humor_Multi-Labeled.xlsx: the human labeled dataset.
+    Excel2txt.py: the Python code to extract texts and labels from the above Excel file for experiments.
+    mlabel_corpora: the folder containing the extracted texts and lablels for experiments.
+    tools: the Jupyter Notebook and Python codes for humour comprehension experiments.
 ```
 
 ## 2. To cite this datasets, source code, or experiment results:
